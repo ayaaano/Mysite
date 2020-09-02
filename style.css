@@ -371,14 +371,16 @@ margin-top:10px;
 .left-content{
 	float:none;
 	width:100%;
+	
 }
 .right-content{
 	float:none;
 	width:100%;
+	
 }
 .contact-group{
-	width:100%
-	text-align:center;
+	width:100%;
+	text-align: center;
 }
 .left-contact-content{
 	width:100%;
